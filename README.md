@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @ShieldedDemon19
-- I think that i broke the adobe web beta it isnt wokring anymore 
-
-
-    Timestamp: Mon, 28 Feb 2022 22:04:51 GMT
+-   Timestamp: Mon, 28 Feb 2022 22:04:51 GMT
     File Name: https://preview.illustrator.adobe.com/index.0724feb80f8f57e6e556.js
     Line no.: 1676
     Column no. : 174574
